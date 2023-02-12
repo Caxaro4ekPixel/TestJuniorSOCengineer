@@ -1,0 +1,7 @@
+.env
+*.session
+*.log
+/venv
+.idea
+logs_tg/*.txt
+temp_date_files/*.txt
